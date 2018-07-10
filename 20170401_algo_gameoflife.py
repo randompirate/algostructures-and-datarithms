@@ -10,7 +10,7 @@ import copy
 import random as rng
 
 ## Constants ##
-H = 25   #Height
+H = 125   #Height
 W = 10   #Width
 T = 100  #Number of ticks
 
